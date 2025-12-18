@@ -32,7 +32,7 @@ The objective is to uncover insights into **spending patterns, customer segments
 
 ## 🧰 Tools & Technologies
 - **Python** – Pandas, NumPy, Matplotlib, Seaborn  
-- **SQL** – PostgreSQL / MySQL / SQL Server  
+- **SQL** – Sqlite  
 - **Power BI** – Interactive dashboard and KPIs  
 - **Gamma** – Presentation (PPT)  
 - **Jupyter Notebook** – Analysis and documentation  
@@ -107,9 +107,5 @@ An interactive Power BI dashboard including:
 
 ---
 
-## ▶️ How to Run This Project
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn sqlalchemy
+
 
